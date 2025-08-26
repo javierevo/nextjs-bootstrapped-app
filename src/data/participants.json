@@ -1,0 +1,27 @@
+[
+  {
+    "email": "juan.perez@example.com",
+    "name": "Juan Pérez García",
+    "accessKey": "MASTER2024"
+  },
+  {
+    "email": "maria.rodriguez@example.com",
+    "name": "María Rodríguez López",
+    "accessKey": "MASTER2024"
+  },
+  {
+    "email": "carlos.martinez@example.com",
+    "name": "Carlos Martínez Hernández",
+    "accessKey": "MASTER2024"
+  },
+  {
+    "email": "ana.gonzalez@example.com",
+    "name": "Ana González Ruiz",
+    "accessKey": "MASTER2024"
+  },
+  {
+    "email": "test@example.com",
+    "name": "Usuario de Prueba",
+    "accessKey": "TEST123"
+  }
+]
